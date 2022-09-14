@@ -22,15 +22,17 @@ body {
 
 .logo-web,
 .logo-footer-web {
-    color: #2196F3;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em;
     text-decoration: none;
+    color: #2196F3;
 }
 
 .logo-studio {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
@@ -70,7 +72,7 @@ body {
     line-height: 1.1;
     letter-spacing: 0.02em;
     text-decoration: none;
-    color: var(--text-color);
+    color: var(--description-text);
 }
 
 .header-mailto {
@@ -79,7 +81,7 @@ body {
     line-height: 1.1;
     letter-spacing: 0.02em;
     text-decoration: none;
-    color: var(--primary-text-color);
+    color: var(--description-text);
 }
 /* Hero Section */
 
@@ -202,6 +204,7 @@ body {
 /* Footer */
 
 .logo-footer-studio {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
